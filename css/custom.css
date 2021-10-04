@@ -1,0 +1,40 @@
+kbd {
+    display: inline-block;
+    margin: 0 .1em;
+    padding: .15em .3em;
+    color: #242729;
+    text-shadow: 0 1px 0 #FFF;
+    background-color: #e1e3e5;
+    border: 1px solid #adb3b9;
+    border-radius: 3px;
+    box-shadow: 0 1px 0 rgba(12,13,14,0.2), 0 0 0 2px #FFF inset;
+    white-space: nowrap;
+    line-height: 1.25;
+}
+
+.Rerrormsg > code{
+    color: red !important;
+    font-weight: bold;
+}
+
+.Rerrormsg {
+    margin-top: -2.5em !important;
+}
+
+.r-help-page {
+    border: 1px solid #adb3b9;
+    border-radius: 3px;
+    padding: 1em 1em;
+}
+
+.page-inner {
+    max-width: 80% !important;
+}
+
+.title {
+    margin-bottom: .25em !important;
+}
+
+.author, .date {
+    margin-bottom: 0 !important;
+}

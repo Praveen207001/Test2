@@ -1,0 +1,7 @@
+book_filename: "PBS-R-Manual"
+language:
+  ui:
+    chapter_name: "Chapter "
+rmd_files: ["index.Rmd", "introduction.Rmd", "basics.Rmd", "statistics.Rmd", "advice.Rmd"]
+cover-image: images/cover.png
+

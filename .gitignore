@@ -1,0 +1,9 @@
+packrat/lib*/
+.Rproj.user
+*.Rhistory
+_book/
+*.rds
+libs/
+.DS_Store
+_bookdown_files/
+*.log
